@@ -35,7 +35,7 @@
      </tr>
      <tr>
        <td align="center">01</td>
-       <td align="center"><a href="https://github.com/duhanayan/Born2beroot">Born2beroot</a></td>
+       <td align="center">Born2beroot</td>
        <td align="center">✅</td>
        <td align="center">100</td>
      </tr>
